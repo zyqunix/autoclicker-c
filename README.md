@@ -18,3 +18,4 @@ An Autoclicker CLI App build with C
   ![stationary-click](https://github.com/user-attachments/assets/9fe42af9-321c-4e8e-a5e7-541cddef8e25)
 
 ### Licensed under MIT
+Icon by game-icons.net licensed by the CC Attribution License. (https://www.svgrepo.com/svg/320073/click)
