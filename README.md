@@ -10,4 +10,5 @@ Uses Cases:
   - When you're bored and need to automate clickerheroes
   - Needing to click something
   - Has built-in spinner, which can be configured in the top of the code (change RADIUS_X/RADIUS_Y)
+
 Licensed under MIT
