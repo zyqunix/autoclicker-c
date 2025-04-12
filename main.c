@@ -69,7 +69,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 
     printf("Press Shift + Alt + 1 to start/stop mouse circle movement.\n");
     printf("Press Shift + Alt + 2 to start/stop clicking without spinning.\n");
-    printf("Press ESC to exit.\n");
+    printf("Press CTRL+C to exit.\n");
 
     while (true) {
         if (GetAsyncKeyState(VK_SHIFT) & 0x8000 && GetAsyncKeyState(VK_MENU) & 0x8000 && GetAsyncKeyState('1') & 0x8000) {
